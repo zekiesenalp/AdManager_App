@@ -7,7 +7,7 @@ Location-based advertising manager
 - Google Maps API
 
 Login Screen
-![Login Screen](http://zekiesenalp.com/admanager/4.jpg)
+![Login Screen](http://zekiesenalp.com/admanager/5.jpg)
 
 GPS Permission
 ![GPS](http://zekiesenalp.com/admanager/1.jpg)
