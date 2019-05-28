@@ -10,7 +10,7 @@ Login Screen
 ![Login Screen](http://zekiesenalp.com/admanager/4.jpg)
 
 GPS Permission
-![](http://zekiesenalp.com/admanager/1.jpg)
+![GPS](http://zekiesenalp.com/admanager/1.jpg)
 
 Location Input
 ![Location](http://zekiesenalp.com/admanager/3.jpg)
